@@ -1,0 +1,28 @@
+[
+    {
+        "kode_pesawat": "GRD001",
+        "nama_pesawat": "Gadura Indonesia",
+        "asal_keberangkatan": "Jakarta",
+        "tujuan_keberangkatan": "Surabaya",
+        "tanggal_keberangkatan": "14-05-2024",
+        "jam_keberangkatan": "09.00",
+        "harga_tiket": 1000000,
+        "nama_pemesan": "Deddy Cobotak",
+        "jumlah_tiket": "1",
+        "email": "deddy@email.com",
+        "jumlah_bayar": 1000000
+    },
+    {
+        "kode_pesawat": "AAS001",
+        "nama_pesawat": "Air Aisa",
+        "asal_keberangkatan": "Padang",
+        "tujuan_keberangkatan": "Jakarta",
+        "tanggal_keberangkatan": "15-05-2024",
+        "jam_keberangkatan": "12.00",
+        "harga_tiket": 500000,
+        "nama_pemesan": "Andre Onana",
+        "jumlah_tiket": "2",
+        "email": "onana@email.com",
+        "jumlah_bayar": 1000000
+    }
+]
